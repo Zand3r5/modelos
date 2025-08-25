@@ -1,2 +1,1 @@
-# Objetos2
-Programacion Orientada a Objetos 2
+# Modelos y simulacion 2025
